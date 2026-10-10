@@ -1,7 +1,8 @@
 # System Design Master
 
 > A structured, stage-by-stage system design course, from fundamentals to full HLD and LLD case studies.
-> **By PKS** 
+
+- **By PKS** 
 
 - **Youtube** · [@IamPradeepKumarSaini](https://www.youtube.com/@IamPradeepKumarSaini)
 - **Instagram** · [@IamPradeepKumarSaini](https://www.instagram.com/iampradeepkumarsaini)
